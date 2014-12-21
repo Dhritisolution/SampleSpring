@@ -1,0 +1,100 @@
+body {
+padding-top:40px;
+padding-bottom:40px;
+background-color:#eee;
+}
+/* Form css */
+.form-signin {
+max-width:330px;
+margin:0 auto;
+padding:15px;
+}
+
+.form-signin .checkbox {
+font-weight:400;
+}
+
+.form-signin .form-control {
+position:relative;
+height:auto;
+font-size:16px;
+padding:10px;
+}
+
+.form-signin .form-control:focus {
+z-index:2;
+}
+
+.form-signin input[type="email"] {
+margin-bottom:-1px;
+}
+/* annexure wrapper css */
+.annexure-form {
+width:556px;
+border:1px solid #676767;
+position:relative;
+top:170px;
+margin:0 auto!important;
+}
+
+.annexure-form-header {
+font-size:18px;
+line-height:18px;
+background-color:#676767;
+color:#fff;
+position:relative;
+padding:16px 0 16px 52px;
+}
+
+.form-regisration {
+padding:10px 0 30px;
+}
+
+.icon {
+position:absolute;
+right:0;
+top:0;
+}
+
+.form-group span {
+color:#000;
+margin-left:-2px;
+}
+
+.form-bottom {
+background:#ccc;
+height:80px;
+padding:10px 52px;
+}
+
+.form-bottom span {
+color:#000;
+}
+
+.form-group p {
+color:#676767;
+}
+
+.division {
+height:12px;
+}
+
+.division-2 {
+height:24px;
+}
+
+.td-1 {
+width:24%;
+}
+
+.error p,.success p {
+margin-left:52px;
+}
+
+.form-signin .form-signin-heading,.form-signin .checkbox,.form-signin input[type="password"] {
+margin-bottom:10px;
+}
+
+.hidden {
+display: none;
+}

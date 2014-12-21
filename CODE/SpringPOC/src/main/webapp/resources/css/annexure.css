@@ -1,0 +1,75 @@
+/* version: 1.4 */
+body {
+padding-top:40px;
+padding-bottom:40px;
+background-color:#eee;
+}
+/* annexure wrapper */
+.annexure-form {
+width:556px;
+border:1px solid #676767;
+position:relative;
+top:170px;
+margin:0 auto!important;
+}
+/* annexure box header */
+.annexure-form-header {
+font-size:18px;
+line-height:18px;
+background-color:#676767;
+color:#fff;
+position:relative;
+padding:16px 0 16px 52px;
+}
+/* regisration form padding */
+.form-regisration {
+padding:10px 0 30px;
+}
+.icon {
+position:absolute;
+right:0;
+top:0;
+}
+/* regisration form-group span */
+.form-group span {
+color:#000;
+margin-left:-2px;
+}
+/* regisration form-background */
+.form-bottom {
+background:#ccc;
+height:80px;
+padding:10px 52px;
+}
+.form-bottom span {
+color:#000;
+}
+.form-group p {
+color:#676767;
+}
+/* division height 12px */
+.division {
+height:12px;
+}
+/* division height 24px */
+.division-2 {
+height:24px;
+}
+/* td 24% */
+.td-1 {
+width:24%;
+}
+.error p,.success p {
+margin-left:52px;
+}
+.form-signin .form-signin-heading,.form-signin .checkbox,.form-signin input[type="password"] {
+margin-bottom:10px;
+}
+/* hide class */
+.hidden {
+display:none;
+}
+/* regisration input submit */
+.form-regisration .btnsubmit-regisration{
+	width: 82px !important;
+}
